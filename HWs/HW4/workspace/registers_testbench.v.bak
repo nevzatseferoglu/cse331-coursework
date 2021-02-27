@@ -1,0 +1,4 @@
+
+`define DELAY 20
+module registers_testbench();
+

@@ -1,0 +1,30 @@
+
+Instructions in instruction memory:
+------------
+1: beq R1, R2, 10 -> 00010000
+	             00100010
+		     00000000
+                     00001010
+
+45 : addn R3, R2, R1
+
+--------
+*At the line 45(estimated jump), there is an other instruction in instruction memory to test whether
+beq is works or not.
+
+*At the line 45 there is an another helper test instruction in instruction memory that helps me tot test:
+
+addn R3, R2, R1
+00000000
+01000001
+00011000
+00100000
+
+Initial contents:
+
+R1 content = 00000000000000000000000000000010
+R2 content = 00000000000000000000000000000010
+R3 content = 00000000000000000000000000000000
+
+*Note = All the other registers are filled with zero.
+-----------------------------------------------------

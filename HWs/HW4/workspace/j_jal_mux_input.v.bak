@@ -1,0 +1,11 @@
+module j_jal_mux_input(
+	output [31:0] out,
+	input [3:0] in1,
+	input [25:0] in0
+);
+
+
+or or1(out[31:28], in1[3:0], 4'b0);
+or or2(out[27:22], in0[25:0], 26'b0);
+
+endmodule

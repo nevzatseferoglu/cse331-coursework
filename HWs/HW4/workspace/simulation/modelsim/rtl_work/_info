@@ -1,0 +1,487 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\nevza\Desktop\workspace\simulation\modelsim
+vadder_subtractor_32bit
+I:HD?44B<;8hWXEnLOlAYM2
+VZR=0e^=9O3gMmh3Ge;;SO2
+Z1 dC:\Users\nevza\Desktop\workspace\simulation\modelsim
+w1610123039
+8C:/Users/nevza/Desktop/workspace/adder_subtractor_32bit.v
+FC:/Users/nevza/Desktop/workspace/adder_subtractor_32bit.v
+L0 1
+Z2 OV;L;10.1d;51
+r1
+31
+Z3 o-vlog01compat -work work -O0
+Z4 !s92 -vlog01compat -work work +incdir+C:/Users/nevza/Desktop/workspace -O0
+!i10b 1
+!s100 hiIR50;Z=LKF2>=ggWKn@1
+!s85 0
+!s108 1610928354.822000
+!s107 C:/Users/nevza/Desktop/workspace/adder_subtractor_32bit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/nevza/Desktop/workspace|C:/Users/nevza/Desktop/workspace/adder_subtractor_32bit.v|
+!s101 -O0
+valu_1bit
+IXTG?[Ob^c2jB8RfYX^`543
+V8Oz6b<ebeJ9C8H=Yl8=o;2
+R1
+w1610236400
+8C:/Users/nevza/Desktop/workspace/alu_1bit.v
+FC:/Users/nevza/Desktop/workspace/alu_1bit.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 7UenZoJ4=en>:W5ZdT]CL2
+!s85 0
+!s108 1610928354.946000
+!s107 C:/Users/nevza/Desktop/workspace/alu_1bit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/nevza/Desktop/workspace|C:/Users/nevza/Desktop/workspace/alu_1bit.v|
+!s101 -O0
+valu_32bit
+IE<G7_Bi_??g49MmNN5FS>1
+VlbLF_j`cLII_mZ?>B_VJJ3
+R1
+w1610241810
+8C:/Users/nevza/Desktop/workspace/alu_32bit.v
+FC:/Users/nevza/Desktop/workspace/alu_32bit.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 45nzmADE`QXeCCiIm5CH?1
+!s85 0
+!s108 1610928355.005000
+!s107 C:/Users/nevza/Desktop/workspace/alu_32bit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/nevza/Desktop/workspace|C:/Users/nevza/Desktop/workspace/alu_32bit.v|
+!s101 -O0
+valu_control
+I@MW?zSNbHMc9@S7C`@@zz0
+VN[KKSBOaANbFnCeBL3J_63
+R1
+w1610387569
+8C:/Users/nevza/Desktop/workspace/alu_control.v
+FC:/Users/nevza/Desktop/workspace/alu_control.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 NJ[1;83R`fh352Hl8Fh>j3
+!s85 0
+!s108 1610928355.133000
+!s107 C:/Users/nevza/Desktop/workspace/alu_control.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/nevza/Desktop/workspace|C:/Users/nevza/Desktop/workspace/alu_control.v|
+!s101 -O0
+vcompare_with_zero_32bit
+ICGlEn<[mK_nAGhITHD>@c0
+V8_1Y0[WmYl<YlaA^9kJe?0
+R1
+w1610153359
+8C:/Users/nevza/Desktop/workspace/compare_with_zero_32bit.v
+FC:/Users/nevza/Desktop/workspace/compare_with_zero_32bit.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 =NkC>gJh_d78o2J9zPWoP1
+!s85 0
+!s108 1610928354.886000
+!s107 C:/Users/nevza/Desktop/workspace/compare_with_zero_32bit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/nevza/Desktop/workspace|C:/Users/nevza/Desktop/workspace/compare_with_zero_32bit.v|
+!s101 -O0
+vcontrol_unit
+IkdaQ3W4eG6P;Ij`;:oghC1
+V>QZ3hW1c@`YKn?KX3f]Ga0
+R1
+w1610481244
+8C:/Users/nevza/Desktop/workspace/control_unit.v
+FC:/Users/nevza/Desktop/workspace/control_unit.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 5S:8WkMBBEBLLoh`8fgDD2
+!s85 0
+!s108 1610928355.578000
+!s107 C:/Users/nevza/Desktop/workspace/control_unit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/nevza/Desktop/workspace|C:/Users/nevza/Desktop/workspace/control_unit.v|
+!s101 -O0
+vdata_memory_256KB
+I`=8MAnC<cOkjff29Ek2H:2
+VH@iBIU]1MYlV4OIPJUzzC0
+R1
+w1610926056
+8C:/Users/nevza/Desktop/workspace/data_memory_256KB.v
+FC:/Users/nevza/Desktop/workspace/data_memory_256KB.v
+L0 1
+R2
+r1
+31
+R3
+R4
+ndata_memory_256@k@b
+!i10b 1
+!s100 LYCdR>N6=e[^gKkAD5bNk3
+!s85 0
+!s108 1610928355.190000
+!s107 C:/Users/nevza/Desktop/workspace/data_memory_256KB.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/nevza/Desktop/workspace|C:/Users/nevza/Desktop/workspace/data_memory_256KB.v|
+!s101 -O0
+vfull_adder_1bit
+Ie30bg[9D;K=jR;[42@aU]3
+V68V>H^3ZU5eMFo=341C1f3
+R1
+w1610118858
+8C:/Users/nevza/Desktop/workspace/full_adder_1bit.v
+FC:/Users/nevza/Desktop/workspace/full_adder_1bit.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 _WnQZlfQA6VbHYi]GcL<51
+!s85 0
+!s108 1610928354.759000
+!s107 C:/Users/nevza/Desktop/workspace/full_adder_1bit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/nevza/Desktop/workspace|C:/Users/nevza/Desktop/workspace/full_adder_1bit.v|
+!s101 -O0
+vinstruction_memory
+IFS>[;n>4WzZTP6DAR5Wgj1
+V0mO:I<DHQ7]aRGRCX]cPC3
+R1
+w1610845254
+8C:/Users/nevza/Desktop/workspace/instruction_memory.v
+FC:/Users/nevza/Desktop/workspace/instruction_memory.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 O]723Uel;zERJ7Oic_7<B1
+!s85 0
+!s108 1610928355.256000
+!s107 C:/Users/nevza/Desktop/workspace/instruction_memory.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/nevza/Desktop/workspace|C:/Users/nevza/Desktop/workspace/instruction_memory.v|
+!s101 -O0
+vj_jal_mux_input
+IN_gF=Mz4l_0HXDA1i6m5^0
+V>;<H]6RnMDF<z^:j6kUKO0
+R1
+w1610388214
+8C:/Users/nevza/Desktop/workspace/j_jal_mux_input.v
+FC:/Users/nevza/Desktop/workspace/j_jal_mux_input.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 _2bCMd5360>7IR<?8S:cn0
+!s85 0
+!s108 1610928355.513000
+!s107 C:/Users/nevza/Desktop/workspace/j_jal_mux_input.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/nevza/Desktop/workspace|C:/Users/nevza/Desktop/workspace/j_jal_mux_input.v|
+!s101 -O0
+vMips32
+IgDHPo4ZE=o8e=GQ;g1bA32
+VGjWJM8k>D3n[E7A]h2AmT3
+R1
+w1610847628
+8C:/Users/nevza/Desktop/workspace/Mips32.v
+FC:/Users/nevza/Desktop/workspace/Mips32.v
+L0 1
+R2
+r1
+31
+R3
+R4
+n@mips32
+!i10b 1
+!s100 ZAX:NQmS1CiV<SFM[=1;P0
+!s85 0
+!s108 1610928355.315000
+!s107 C:/Users/nevza/Desktop/workspace/Mips32.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/nevza/Desktop/workspace|C:/Users/nevza/Desktop/workspace/Mips32.v|
+!s101 -O0
+vMips32_testbench
+!i10b 1
+!s100 d:Kcd5GM=2H?A0Cg[K]1J1
+IlPXOLk3CY;BBi<IX0V]a41
+V4K_Dl2KgA<mTKERPS`BPc1
+R1
+w1610919646
+8C:/Users/nevza/Desktop/workspace/Mips32_testbench.v
+FC:/Users/nevza/Desktop/workspace/Mips32_testbench.v
+L0 3
+R2
+r1
+!s85 0
+31
+!s108 1610935540.621000
+!s107 C:/Users/nevza/Desktop/workspace/Mips32_testbench.v|
+!s90 -reportprogress|300|-work|work|-O0|C:/Users/nevza/Desktop/workspace/Mips32_testbench.v|
+!s101 -O0
+o-work work -O0
+n@mips32_testbench
+vmux_2to1
+IMgYZHJM1ikDNh3k`HnM`:0
+Vl?[OccCl8Q@zTzG@65Ne01
+R1
+w1609963937
+8C:/Users/nevza/Desktop/workspace/mux_2to1.v
+FC:/Users/nevza/Desktop/workspace/mux_2to1.v
+L0 2
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 2K45>90kK[lBbm0`fF2z:2
+!s85 0
+!s108 1610928354.213000
+!s107 C:/Users/nevza/Desktop/workspace/mux_2to1.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/nevza/Desktop/workspace|C:/Users/nevza/Desktop/workspace/mux_2to1.v|
+!s101 -O0
+vmux_2to1_32bit
+INlNZ08^?51L=M9f`YnA?O1
+VU4oKm[9Fe1S2j[I@UY0ei3
+R1
+w1610029539
+8C:/Users/nevza/Desktop/workspace/mux_2to1_32bit.v
+FC:/Users/nevza/Desktop/workspace/mux_2to1_32bit.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 z:oLl7N3Sk6HncWEJL_9L0
+!s85 0
+!s108 1610928354.435000
+!s107 C:/Users/nevza/Desktop/workspace/mux_2to1_32bit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/nevza/Desktop/workspace|C:/Users/nevza/Desktop/workspace/mux_2to1_32bit.v|
+!s101 -O0
+vmux_2to1_5bit
+IH3`FVdNi0L<[97[;gflO[3
+V12]W[aIOYo2GAH^62EC?W0
+R1
+w1610243007
+8C:/Users/nevza/Desktop/workspace/mux_2to1_5bit.v
+FC:/Users/nevza/Desktop/workspace/mux_2to1_5bit.v
+L0 2
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 ZRG>94`[fCbCUG:e?Nj^e1
+!s85 0
+!s108 1610928355.071000
+!s107 C:/Users/nevza/Desktop/workspace/mux_2to1_5bit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/nevza/Desktop/workspace|C:/Users/nevza/Desktop/workspace/mux_2to1_5bit.v|
+!s101 -O0
+vmux_4to1
+IMRAl?j_POKz;@MIcOUa`20
+VZQ2N2cc7]>1l;clleh;kJ2
+R1
+w1609963622
+8C:/Users/nevza/Desktop/workspace/mux_4to1.v
+FC:/Users/nevza/Desktop/workspace/mux_4to1.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 gP5X@;HlgK;jI6@YIjRVN0
+!s85 0
+!s108 1610928354.301000
+!s107 C:/Users/nevza/Desktop/workspace/mux_4to1.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/nevza/Desktop/workspace|C:/Users/nevza/Desktop/workspace/mux_4to1.v|
+!s101 -O0
+vmux_4to1_2bit
+I2M^<>NWWcS7iFXOI>TIKO3
+VRcF;jz>PNSh6Zcm_nOWCE0
+R1
+w1610032586
+8C:/Users/nevza/Desktop/workspace/mux_4to1_2bit.v
+FC:/Users/nevza/Desktop/workspace/mux_4to1_2bit.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 RHRC^dKKX;HNkYa0h?T_>1
+!s85 0
+!s108 1610928354.372000
+!s107 C:/Users/nevza/Desktop/workspace/mux_4to1_2bit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/nevza/Desktop/workspace|C:/Users/nevza/Desktop/workspace/mux_4to1_2bit.v|
+!s101 -O0
+vprogram_counter
+ITR@MK0o:?B8O4nd;FzRRX0
+V5iA`@>LgF^;DN0F`?I7gn2
+R1
+w1610573326
+8C:/Users/nevza/Desktop/workspace/program_counter.v
+FC:/Users/nevza/Desktop/workspace/program_counter.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 3aW@I0H2S>HbbMS9nJ_Cl3
+!s85 0
+!s108 1610928355.641000
+!s107 C:/Users/nevza/Desktop/workspace/program_counter.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/nevza/Desktop/workspace|C:/Users/nevza/Desktop/workspace/program_counter.v|
+!s101 -O0
+vregisters
+ImCP0flWXc2K6^k6_79J?O3
+Vo:=Ud`_CNFj0cnL@j=5e72
+R1
+w1610571598
+8C:/Users/nevza/Desktop/workspace/registers.v
+FC:/Users/nevza/Desktop/workspace/registers.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 `:3Gg7[1C6I0<bOdW=>GF0
+!s85 0
+!s108 1610928354.567000
+!s107 C:/Users/nevza/Desktop/workspace/registers.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/nevza/Desktop/workspace|C:/Users/nevza/Desktop/workspace/registers.v|
+!s101 -O0
+vshift32bit_left_2bit
+IDfInA3idYYJ2D_NO^3bIT2
+V?jFn5MH[1EJ6TA9HaM79;3
+R1
+w1610377877
+8C:/Users/nevza/Desktop/workspace/shift32bit_left_2bit.v
+FC:/Users/nevza/Desktop/workspace/shift32bit_left_2bit.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 2KkXmC;_8ZP@m9>2Q>36:3
+!s85 0
+!s108 1610928355.448000
+!s107 C:/Users/nevza/Desktop/workspace/shift32bit_left_2bit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/nevza/Desktop/workspace|C:/Users/nevza/Desktop/workspace/shift32bit_left_2bit.v|
+!s101 -O0
+vsign_extender_16bit
+Ikh`dz1;dEUL9KjO2NLnJX0
+VU:0O<fc?SVlXeLJaVn@Q?1
+R1
+w1610063590
+8C:/Users/nevza/Desktop/workspace/sign_extender_16bit.v
+FC:/Users/nevza/Desktop/workspace/sign_extender_16bit.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 ?3AWmoHHogRRoVKUeFGT[1
+!s85 0
+!s108 1610928354.629000
+!s107 C:/Users/nevza/Desktop/workspace/sign_extender_16bit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/nevza/Desktop/workspace|C:/Users/nevza/Desktop/workspace/sign_extender_16bit.v|
+!s101 -O0
+vzero_end_extender_16bit
+ID60GIo`638HCV0A;7>6JD0
+VDOZG7`zeHFh]]omPBmU<?3
+R1
+w1610364988
+8C:/Users/nevza/Desktop/workspace/zero_end_extender_16bit.v
+FC:/Users/nevza/Desktop/workspace/zero_end_extender_16bit.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 9[:IU[P2hAc1>iTLZkZY22
+!s85 0
+!s108 1610928355.385000
+!s107 C:/Users/nevza/Desktop/workspace/zero_end_extender_16bit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/nevza/Desktop/workspace|C:/Users/nevza/Desktop/workspace/zero_end_extender_16bit.v|
+!s101 -O0
+vzero_extender_16bit
+Izc3XXH4YXjSO5FJU5Uf?A1
+V9d2Y_9F7HjA7H;ES=FF362
+R1
+w1610111761
+8C:/Users/nevza/Desktop/workspace/zero_extender_16bit.v
+FC:/Users/nevza/Desktop/workspace/zero_extender_16bit.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 3DI0fV[9;5DV8O[:^z3RZ0
+!s85 0
+!s108 1610928354.691000
+!s107 C:/Users/nevza/Desktop/workspace/zero_extender_16bit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/nevza/Desktop/workspace|C:/Users/nevza/Desktop/workspace/zero_extender_16bit.v|
+!s101 -O0
+vzero_extender_30bit
+Ia_95Ab6h5FB:ZFFc7]j390
+VT96Jd`zZ`^RB89Dh>0CVV0
+R1
+w1610033197
+8C:/Users/nevza/Desktop/workspace/zero_extender_30bit.v
+FC:/Users/nevza/Desktop/workspace/zero_extender_30bit.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 BJLLlLMbT]XVod9N4ZWgO0
+!s85 0
+!s108 1610928354.500000
+!s107 C:/Users/nevza/Desktop/workspace/zero_extender_30bit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/nevza/Desktop/workspace|C:/Users/nevza/Desktop/workspace/zero_extender_30bit.v|
+!s101 -O0

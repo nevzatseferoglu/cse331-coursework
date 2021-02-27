@@ -1,0 +1,24 @@
+
+*I assigned "101000" as a function field of XORN operation.
+Instructions in instruction memory:
+------------
+xorn R4, R2, R3 -> 00000000
+		   01000011
+		   00100000
+		   00101000
+xorn R7, R5, R6 -> 00000000
+		   10100110
+		   00111000
+		   00101000
+--------
+Initial contents:
+
+R2 content = 00000000000000001111111111111111
+R3 content = 11111111111110100000000000000000
+R5 content = 01010101010101010101010101010101
+R6 content = 00000000000000000000000000001111
+-----------------------------------------------------
+*Note = All the other registers are filled with zero.
+
+
+

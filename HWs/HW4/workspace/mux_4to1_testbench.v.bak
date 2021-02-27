@@ -1,0 +1,30 @@
+
+`define DELAY 20
+module mux_4to1_testbench();
+
+reg in3;
+reg in2;
+reg in1;
+reg in0;
+reg [1:0] sel;
+wire out;
+
+mux_2to1 test_mux (
+	.out(out),
+	.in1(in1),
+	.in0(in0),
+	.sel(sel)
+	);
+
+initial begin
+	sel = 1'b0; in1 = 1'b0; in0 = 1'b0;  
+	#`DELAY;
+end
+ 
+ 
+initial
+begin
+	$monitor("sel = %1b, in1 = %1b, in0 = %1b, out = %1b",sel, in1, in0, out);
+end
+ 
+endmodule

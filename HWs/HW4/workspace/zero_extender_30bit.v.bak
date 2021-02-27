@@ -1,0 +1,4 @@
+module zero_extender_30bit(
+	output [31:0] out,
+	input [2:0] in
+)

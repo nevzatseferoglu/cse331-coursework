@@ -1,0 +1,35 @@
+
+Instructions in instruction memory:
+------------
+1: jr R2 00100000
+	 01000000
+         00000000
+         00000000
+
+44 : addn R4, R3, R1
+
+--------
+*At the line 45(estimated jump), there is an other instruction in instruction memory to test whether
+jr is works or not.
+
+*At the line 45 there is an another helper test instruction in instruction memory that helps me tot test:
+
+addn R4, R3, R1
+00000000
+01100001
+00100000
+00100000
+
+
+Initial contents:
+
+R1 content = 00000000000000000000000000000111
+R2 content = 00000000000000000000000000101100 (decimal 44) because lines are start with 1.
+R3 content = 00000000000000000000000000000110
+R4 content = 00000000000000000000000000000000
+
+*Note = All the other registers are filled with zero.
+-----------------------------------------------------
+
+
+

@@ -1,0 +1,13 @@
+module control_unit (
+	output RegDest,
+	output Beq, Bne,
+	output MemRead, MemWrite,
+	output MemtoReg,
+	output [1:0] AluOp,
+	output AluSrc,
+	output RegWrite1, RegWrite2,
+	output ori,
+	output lui,
+	output j, jal, jr,
+	output lw
+);

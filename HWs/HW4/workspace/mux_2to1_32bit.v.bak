@@ -1,0 +1,6 @@
+module mux_2to1_32bit(
+	
+);
+
+
+endmodule

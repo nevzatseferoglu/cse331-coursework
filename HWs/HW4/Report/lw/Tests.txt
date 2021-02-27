@@ -1,0 +1,23 @@
+Instructions in instruction memory:
+------------
+lw R5, 0(R0) -> 10001100
+		00000101
+                00000000
+                00000000
+lw R6, 4(R4) -> 10001100
+		10000110
+                00000000
+                00000100
+--------
+Initial contents:
+
+R0 content = 00000000000000000000000000000000
+R4 content = 00000000000000000000000000000100
+*Note = All the other registers are filled with zero.
+
+Initial data memory denoted different in file.
+-----------------------------------------------------
+
+
+
+

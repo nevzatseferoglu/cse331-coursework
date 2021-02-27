@@ -1,0 +1,35 @@
+
+Instructions in instruction memory:
+------------
+1: jal 10 -> 00001100
+	     00000000
+             00000000
+             00001010
+
+45 : addn R3, R2, R1
+
+--------
+*First instruction in the instruction memory. Therefore R[31] should 4 after jumping and linking.
+*At the line 45(estimated jump), there is an other instruction in instruction memory to test whether
+jal is works or not.
+
+*At the line 45 there is an another helper test instruction in instruction memory that helps me tot test:
+
+addn R3, R2, R1
+00000000
+01000001
+00011000
+00100000
+
+Initial contents:
+
+R1 content = 00000000000000000000000000000011
+R2 content = 00000000000000000000000000000010
+R3 content = 00000000000000000000000000000000
+R31 content = 00000000000000000000000000000000
+
+*Note = All the other registers are filled with zero.
+-----------------------------------------------------
+
+
+

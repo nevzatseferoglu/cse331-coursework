@@ -1,0 +1,6 @@
+module instruction_memory (
+	output [31:0] instruction
+
+);
+
+endmodule

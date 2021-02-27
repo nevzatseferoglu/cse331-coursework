@@ -1,0 +1,967 @@
+# Reading C:/altera/13.1/modelsim_ase/tcl/vsim/pref.tcl 
+# do Mips32_run_msim_rtl_verilog.do 
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Copying C:\altera\13.1\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied C:\altera\13.1\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/nevza/Desktop/workspace {C:/Users/nevza/Desktop/workspace/mux_2to1.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module mux_2to1
+# 
+# Top level modules:
+# 	mux_2to1
+# vlog -vlog01compat -work work +incdir+C:/Users/nevza/Desktop/workspace {C:/Users/nevza/Desktop/workspace/mux_4to1.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module mux_4to1
+# 
+# Top level modules:
+# 	mux_4to1
+# vlog -vlog01compat -work work +incdir+C:/Users/nevza/Desktop/workspace {C:/Users/nevza/Desktop/workspace/mux_4to1_2bit.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module mux_4to1_2bit
+# 
+# Top level modules:
+# 	mux_4to1_2bit
+# vlog -vlog01compat -work work +incdir+C:/Users/nevza/Desktop/workspace {C:/Users/nevza/Desktop/workspace/mux_2to1_32bit.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module mux_2to1_32bit
+# 
+# Top level modules:
+# 	mux_2to1_32bit
+# vlog -vlog01compat -work work +incdir+C:/Users/nevza/Desktop/workspace {C:/Users/nevza/Desktop/workspace/zero_extender_30bit.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module zero_extender_30bit
+# 
+# Top level modules:
+# 	zero_extender_30bit
+# vlog -vlog01compat -work work +incdir+C:/Users/nevza/Desktop/workspace {C:/Users/nevza/Desktop/workspace/registers.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module registers
+# 
+# Top level modules:
+# 	registers
+# vlog -vlog01compat -work work +incdir+C:/Users/nevza/Desktop/workspace {C:/Users/nevza/Desktop/workspace/sign_extender_16bit.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module sign_extender_16bit
+# 
+# Top level modules:
+# 	sign_extender_16bit
+# vlog -vlog01compat -work work +incdir+C:/Users/nevza/Desktop/workspace {C:/Users/nevza/Desktop/workspace/zero_extender_16bit.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module zero_extender_16bit
+# 
+# Top level modules:
+# 	zero_extender_16bit
+# vlog -vlog01compat -work work +incdir+C:/Users/nevza/Desktop/workspace {C:/Users/nevza/Desktop/workspace/full_adder_1bit.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module full_adder_1bit
+# 
+# Top level modules:
+# 	full_adder_1bit
+# vlog -vlog01compat -work work +incdir+C:/Users/nevza/Desktop/workspace {C:/Users/nevza/Desktop/workspace/adder_subtractor_32bit.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module adder_subtractor_32bit
+# 
+# Top level modules:
+# 	adder_subtractor_32bit
+# vlog -vlog01compat -work work +incdir+C:/Users/nevza/Desktop/workspace {C:/Users/nevza/Desktop/workspace/compare_with_zero_32bit.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module compare_with_zero_32bit
+# 
+# Top level modules:
+# 	compare_with_zero_32bit
+# vlog -vlog01compat -work work +incdir+C:/Users/nevza/Desktop/workspace {C:/Users/nevza/Desktop/workspace/alu_1bit.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module alu_1bit
+# 
+# Top level modules:
+# 	alu_1bit
+# vlog -vlog01compat -work work +incdir+C:/Users/nevza/Desktop/workspace {C:/Users/nevza/Desktop/workspace/alu_32bit.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module alu_32bit
+# 
+# Top level modules:
+# 	alu_32bit
+# vlog -vlog01compat -work work +incdir+C:/Users/nevza/Desktop/workspace {C:/Users/nevza/Desktop/workspace/mux_2to1_5bit.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module mux_2to1_5bit
+# 
+# Top level modules:
+# 	mux_2to1_5bit
+# vlog -vlog01compat -work work +incdir+C:/Users/nevza/Desktop/workspace {C:/Users/nevza/Desktop/workspace/alu_control.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module alu_control
+# 
+# Top level modules:
+# 	alu_control
+# vlog -vlog01compat -work work +incdir+C:/Users/nevza/Desktop/workspace {C:/Users/nevza/Desktop/workspace/data_memory_256KB.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module data_memory_256KB
+# 
+# Top level modules:
+# 	data_memory_256KB
+# vlog -vlog01compat -work work +incdir+C:/Users/nevza/Desktop/workspace {C:/Users/nevza/Desktop/workspace/instruction_memory.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module instruction_memory
+# 
+# Top level modules:
+# 	instruction_memory
+# vlog -vlog01compat -work work +incdir+C:/Users/nevza/Desktop/workspace {C:/Users/nevza/Desktop/workspace/Mips32.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module Mips32
+# 
+# Top level modules:
+# 	Mips32
+# vlog -vlog01compat -work work +incdir+C:/Users/nevza/Desktop/workspace {C:/Users/nevza/Desktop/workspace/zero_end_extender_16bit.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module zero_end_extender_16bit
+# 
+# Top level modules:
+# 	zero_end_extender_16bit
+# vlog -vlog01compat -work work +incdir+C:/Users/nevza/Desktop/workspace {C:/Users/nevza/Desktop/workspace/shift32bit_left_2bit.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module shift32bit_left_2bit
+# 
+# Top level modules:
+# 	shift32bit_left_2bit
+# vlog -vlog01compat -work work +incdir+C:/Users/nevza/Desktop/workspace {C:/Users/nevza/Desktop/workspace/j_jal_mux_input.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module j_jal_mux_input
+# 
+# Top level modules:
+# 	j_jal_mux_input
+# vlog -vlog01compat -work work +incdir+C:/Users/nevza/Desktop/workspace {C:/Users/nevza/Desktop/workspace/control_unit.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module control_unit
+# 
+# Top level modules:
+# 	control_unit
+# vlog -vlog01compat -work work +incdir+C:/Users/nevza/Desktop/workspace {C:/Users/nevza/Desktop/workspace/program_counter.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module program_counter
+# 
+# Top level modules:
+# 	program_counter
+# 
+vlog -reportprogress 300 -work work C:/Users/nevza/Desktop/workspace/Mips32_testbench.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module Mips32_testbench
+# 
+# Top level modules:
+# 	Mips32_testbench
+vsim -voptargs=+acc work.Mips32_testbench
+# vsim -voptargs=+acc work.Mips32_testbench 
+# Loading work.Mips32_testbench
+# Loading work.Mips32
+# Loading work.program_counter
+# Loading work.instruction_memory
+# Loading work.control_unit
+# Loading work.mux_2to1_5bit
+# Loading work.mux_2to1
+# Loading work.registers
+# Loading work.sign_extender_16bit
+# Loading work.alu_control
+# Loading work.zero_extender_16bit
+# Loading work.mux_2to1_32bit
+# Loading work.alu_32bit
+# Loading work.alu_1bit
+# Loading work.mux_4to1
+# Loading work.data_memory_256KB
+# Loading work.compare_with_zero_32bit
+# Loading work.mux_4to1_2bit
+# Loading work.zero_extender_30bit
+# Loading work.zero_end_extender_16bit
+# Loading work.adder_subtractor_32bit
+# Loading work.full_adder_1bit
+# Loading work.shift32bit_left_2bit
+# Loading work.j_jal_mux_input
+add wave -position insertpoint  \
+sim:/Mips32_testbench/clk
+step -current
+# Break key hit 
+vlog -work work -O0 C:/Users/nevza/Desktop/workspace/Mips32_testbench.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module Mips32_testbench
+# 
+# Top level modules:
+# 	Mips32_testbench
+vsim -voptargs=+acc work.Mips32_testbench
+# vsim -voptargs=+acc work.Mips32_testbench 
+# Loading work.Mips32_testbench
+# Loading work.Mips32
+# Loading work.program_counter
+# Loading work.instruction_memory
+# Loading work.control_unit
+# Loading work.mux_2to1_5bit
+# Loading work.mux_2to1
+# Loading work.registers
+# Loading work.sign_extender_16bit
+# Loading work.alu_control
+# Loading work.zero_extender_16bit
+# Loading work.mux_2to1_32bit
+# Loading work.alu_32bit
+# Loading work.alu_1bit
+# Loading work.mux_4to1
+# Loading work.data_memory_256KB
+# Loading work.compare_with_zero_32bit
+# Loading work.mux_4to1_2bit
+# Loading work.zero_extender_30bit
+# Loading work.zero_end_extender_16bit
+# Loading work.adder_subtractor_32bit
+# Loading work.full_adder_1bit
+# Loading work.shift32bit_left_2bit
+# Loading work.j_jal_mux_input
+add wave -position insertpoint  \
+sim:/Mips32_testbench/clk
+step -current
+# Break key hit 
+# Simulation stop requested.
+vlog -work work -O0 C:/Users/nevza/Desktop/workspace/Mips32_testbench.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module Mips32_testbench
+# 
+# Top level modules:
+# 	Mips32_testbench
+vsim -voptargs=+acc work.Mips32_testbench
+# vsim -voptargs=+acc work.Mips32_testbench 
+# Loading work.Mips32_testbench
+# Loading work.Mips32
+# Loading work.program_counter
+# Loading work.instruction_memory
+# Loading work.control_unit
+# Loading work.mux_2to1_5bit
+# Loading work.mux_2to1
+# Loading work.registers
+# Loading work.sign_extender_16bit
+# Loading work.alu_control
+# Loading work.zero_extender_16bit
+# Loading work.mux_2to1_32bit
+# Loading work.alu_32bit
+# Loading work.alu_1bit
+# Loading work.mux_4to1
+# Loading work.data_memory_256KB
+# Loading work.compare_with_zero_32bit
+# Loading work.mux_4to1_2bit
+# Loading work.zero_extender_30bit
+# Loading work.zero_end_extender_16bit
+# Loading work.adder_subtractor_32bit
+# Loading work.full_adder_1bit
+# Loading work.shift32bit_left_2bit
+# Loading work.j_jal_mux_input
+add wave -position insertpoint  \
+sim:/Mips32_testbench/clk
+step -current
+# Break key hit 
+vlog -work work -O0 C:/Users/nevza/Desktop/workspace/Mips32_testbench.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module Mips32_testbench
+# 
+# Top level modules:
+# 	Mips32_testbench
+vsim -voptargs=+acc work.Mips32_testbench
+# vsim -voptargs=+acc work.Mips32_testbench 
+# Loading work.Mips32_testbench
+# Loading work.Mips32
+# Loading work.program_counter
+# Loading work.instruction_memory
+# Loading work.control_unit
+# Loading work.mux_2to1_5bit
+# Loading work.mux_2to1
+# Loading work.registers
+# Loading work.sign_extender_16bit
+# Loading work.alu_control
+# Loading work.zero_extender_16bit
+# Loading work.mux_2to1_32bit
+# Loading work.alu_32bit
+# Loading work.alu_1bit
+# Loading work.mux_4to1
+# Loading work.data_memory_256KB
+# Loading work.compare_with_zero_32bit
+# Loading work.mux_4to1_2bit
+# Loading work.zero_extender_30bit
+# Loading work.zero_end_extender_16bit
+# Loading work.adder_subtractor_32bit
+# Loading work.full_adder_1bit
+# Loading work.shift32bit_left_2bit
+# Loading work.j_jal_mux_input
+add wave -position insertpoint  \
+sim:/Mips32_testbench/clk
+step -current
+# Break key hit 
+# Simulation stop requested.
+vlog -work work -O0 C:/Users/nevza/Desktop/workspace/Mips32_testbench.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module Mips32_testbench
+# 
+# Top level modules:
+# 	Mips32_testbench
+vsim -voptargs=+acc work.Mips32_testbench
+# vsim -voptargs=+acc work.Mips32_testbench 
+# Loading work.Mips32_testbench
+# Loading work.Mips32
+# Loading work.program_counter
+# Loading work.instruction_memory
+# Loading work.control_unit
+# Loading work.mux_2to1_5bit
+# Loading work.mux_2to1
+# Loading work.registers
+# Loading work.sign_extender_16bit
+# Loading work.alu_control
+# Loading work.zero_extender_16bit
+# Loading work.mux_2to1_32bit
+# Loading work.alu_32bit
+# Loading work.alu_1bit
+# Loading work.mux_4to1
+# Loading work.data_memory_256KB
+# Loading work.compare_with_zero_32bit
+# Loading work.mux_4to1_2bit
+# Loading work.zero_extender_30bit
+# Loading work.zero_end_extender_16bit
+# Loading work.adder_subtractor_32bit
+# Loading work.full_adder_1bit
+# Loading work.shift32bit_left_2bit
+# Loading work.j_jal_mux_input
+add wave -position insertpoint  \
+sim:/Mips32_testbench/clk
+step -current
+# Break key hit 
+# Simulation stop requested.
+vlog -work work -O0 C:/Users/nevza/Desktop/workspace/Mips32_testbench.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module Mips32_testbench
+# 
+# Top level modules:
+# 	Mips32_testbench
+vsim -voptargs=+acc work.Mips32_testbench
+# vsim -voptargs=+acc work.Mips32_testbench 
+# Loading work.Mips32_testbench
+# Loading work.Mips32
+# Loading work.program_counter
+# Loading work.instruction_memory
+# Loading work.control_unit
+# Loading work.mux_2to1_5bit
+# Loading work.mux_2to1
+# Loading work.registers
+# Loading work.sign_extender_16bit
+# Loading work.alu_control
+# Loading work.zero_extender_16bit
+# Loading work.mux_2to1_32bit
+# Loading work.alu_32bit
+# Loading work.alu_1bit
+# Loading work.mux_4to1
+# Loading work.data_memory_256KB
+# Loading work.compare_with_zero_32bit
+# Loading work.mux_4to1_2bit
+# Loading work.zero_extender_30bit
+# Loading work.zero_end_extender_16bit
+# Loading work.adder_subtractor_32bit
+# Loading work.full_adder_1bit
+# Loading work.shift32bit_left_2bit
+# Loading work.j_jal_mux_input
+add wave -position insertpoint  \
+sim:/Mips32_testbench/clk
+step -current
+# Break key hit 
+# Simulation stop requested.
+vlog -work work -O0 C:/Users/nevza/Desktop/workspace/Mips32_testbench.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module Mips32_testbench
+# 
+# Top level modules:
+# 	Mips32_testbench
+vsim -voptargs=+acc work.Mips32_testbench
+# vsim -voptargs=+acc work.Mips32_testbench 
+# Loading work.Mips32_testbench
+# Loading work.Mips32
+# Loading work.program_counter
+# Loading work.instruction_memory
+# Loading work.control_unit
+# Loading work.mux_2to1_5bit
+# Loading work.mux_2to1
+# Loading work.registers
+# Loading work.sign_extender_16bit
+# Loading work.alu_control
+# Loading work.zero_extender_16bit
+# Loading work.mux_2to1_32bit
+# Loading work.alu_32bit
+# Loading work.alu_1bit
+# Loading work.mux_4to1
+# Loading work.data_memory_256KB
+# Loading work.compare_with_zero_32bit
+# Loading work.mux_4to1_2bit
+# Loading work.zero_extender_30bit
+# Loading work.zero_end_extender_16bit
+# Loading work.adder_subtractor_32bit
+# Loading work.full_adder_1bit
+# Loading work.shift32bit_left_2bit
+# Loading work.j_jal_mux_input
+add wave -position insertpoint  \
+sim:/Mips32_testbench/clk
+step -current
+# Break key hit 
+# Simulation stop requested.
+vlog -work work -O0 C:/Users/nevza/Desktop/workspace/Mips32_testbench.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module Mips32_testbench
+# 
+# Top level modules:
+# 	Mips32_testbench
+vsim -voptargs=+acc work.Mips32_testbench
+# vsim -voptargs=+acc work.Mips32_testbench 
+# Loading work.Mips32_testbench
+# Loading work.Mips32
+# Loading work.program_counter
+# Loading work.instruction_memory
+# Loading work.control_unit
+# Loading work.mux_2to1_5bit
+# Loading work.mux_2to1
+# Loading work.registers
+# Loading work.sign_extender_16bit
+# Loading work.alu_control
+# Loading work.zero_extender_16bit
+# Loading work.mux_2to1_32bit
+# Loading work.alu_32bit
+# Loading work.alu_1bit
+# Loading work.mux_4to1
+# Loading work.data_memory_256KB
+# Loading work.compare_with_zero_32bit
+# Loading work.mux_4to1_2bit
+# Loading work.zero_extender_30bit
+# Loading work.zero_end_extender_16bit
+# Loading work.adder_subtractor_32bit
+# Loading work.full_adder_1bit
+# Loading work.shift32bit_left_2bit
+# Loading work.j_jal_mux_input
+add wave -position insertpoint  \
+sim:/Mips32_testbench/clk
+step -current
+# Break key hit 
+# Simulation stop requested.
+vlog -work work -O0 C:/Users/nevza/Desktop/workspace/Mips32_testbench.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module Mips32_testbench
+# 
+# Top level modules:
+# 	Mips32_testbench
+vsim -voptargs=+acc work.Mips32_testbench
+# vsim -voptargs=+acc work.Mips32_testbench 
+# Loading work.Mips32_testbench
+# Loading work.Mips32
+# Loading work.program_counter
+# Loading work.instruction_memory
+# Loading work.control_unit
+# Loading work.mux_2to1_5bit
+# Loading work.mux_2to1
+# Loading work.registers
+# Loading work.sign_extender_16bit
+# Loading work.alu_control
+# Loading work.zero_extender_16bit
+# Loading work.mux_2to1_32bit
+# Loading work.alu_32bit
+# Loading work.alu_1bit
+# Loading work.mux_4to1
+# Loading work.data_memory_256KB
+# Loading work.compare_with_zero_32bit
+# Loading work.mux_4to1_2bit
+# Loading work.zero_extender_30bit
+# Loading work.zero_end_extender_16bit
+# Loading work.adder_subtractor_32bit
+# Loading work.full_adder_1bit
+# Loading work.shift32bit_left_2bit
+# Loading work.j_jal_mux_input
+add wave -position insertpoint sim:/Mips32_testbench/*
+step -current
+# Break key hit 
+vlog -work work -O0 C:/Users/nevza/Desktop/workspace/Mips32_testbench.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module Mips32_testbench
+# 
+# Top level modules:
+# 	Mips32_testbench
+vsim -voptargs=+acc work.Mips32_testbench
+# vsim -voptargs=+acc work.Mips32_testbench 
+# Loading work.Mips32_testbench
+# Loading work.Mips32
+# Loading work.program_counter
+# Loading work.instruction_memory
+# Loading work.control_unit
+# Loading work.mux_2to1_5bit
+# Loading work.mux_2to1
+# Loading work.registers
+# Loading work.sign_extender_16bit
+# Loading work.alu_control
+# Loading work.zero_extender_16bit
+# Loading work.mux_2to1_32bit
+# Loading work.alu_32bit
+# Loading work.alu_1bit
+# Loading work.mux_4to1
+# Loading work.data_memory_256KB
+# Loading work.compare_with_zero_32bit
+# Loading work.mux_4to1_2bit
+# Loading work.zero_extender_30bit
+# Loading work.zero_end_extender_16bit
+# Loading work.adder_subtractor_32bit
+# Loading work.full_adder_1bit
+# Loading work.shift32bit_left_2bit
+# Loading work.j_jal_mux_input
+add wave -position insertpoint  \
+sim:/Mips32_testbench/clk
+step -current
+# Break key hit 
+# Simulation stop requested.
+vlog -work work -O0 C:/Users/nevza/Desktop/workspace/Mips32_testbench.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module Mips32_testbench
+# 
+# Top level modules:
+# 	Mips32_testbench
+vsim -voptargs=+acc work.Mips32_testbench
+# vsim -voptargs=+acc work.Mips32_testbench 
+# Loading work.Mips32_testbench
+# Loading work.Mips32
+# Loading work.program_counter
+# Loading work.instruction_memory
+# Loading work.control_unit
+# Loading work.mux_2to1_5bit
+# Loading work.mux_2to1
+# Loading work.registers
+# Loading work.sign_extender_16bit
+# Loading work.alu_control
+# Loading work.zero_extender_16bit
+# Loading work.mux_2to1_32bit
+# Loading work.alu_32bit
+# Loading work.alu_1bit
+# Loading work.mux_4to1
+# Loading work.data_memory_256KB
+# Loading work.compare_with_zero_32bit
+# Loading work.mux_4to1_2bit
+# Loading work.zero_extender_30bit
+# Loading work.zero_end_extender_16bit
+# Loading work.adder_subtractor_32bit
+# Loading work.full_adder_1bit
+# Loading work.shift32bit_left_2bit
+# Loading work.j_jal_mux_input
+add wave -position insertpoint  \
+sim:/Mips32_testbench/clk
+step -current
+# Break key hit 
+# Simulation stop requested.
+vlog -work work -O0 C:/Users/nevza/Desktop/workspace/Mips32_testbench.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module Mips32_testbench
+# 
+# Top level modules:
+# 	Mips32_testbench
+vsim -voptargs=+acc work.Mips32_testbench
+# vsim -voptargs=+acc work.Mips32_testbench 
+# Loading work.Mips32_testbench
+# Loading work.Mips32
+# Loading work.program_counter
+# Loading work.instruction_memory
+# Loading work.control_unit
+# Loading work.mux_2to1_5bit
+# Loading work.mux_2to1
+# Loading work.registers
+# Loading work.sign_extender_16bit
+# Loading work.alu_control
+# Loading work.zero_extender_16bit
+# Loading work.mux_2to1_32bit
+# Loading work.alu_32bit
+# Loading work.alu_1bit
+# Loading work.mux_4to1
+# Loading work.data_memory_256KB
+# Loading work.compare_with_zero_32bit
+# Loading work.mux_4to1_2bit
+# Loading work.zero_extender_30bit
+# Loading work.zero_end_extender_16bit
+# Loading work.adder_subtractor_32bit
+# Loading work.full_adder_1bit
+# Loading work.shift32bit_left_2bit
+# Loading work.j_jal_mux_input
+add wave -position insertpoint  \
+sim:/Mips32_testbench/clk
+step -current
+# Break key hit 
+# Simulation stop requested.
+vlog -work work -O0 C:/Users/nevza/Desktop/workspace/Mips32_testbench.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module Mips32_testbench
+# 
+# Top level modules:
+# 	Mips32_testbench
+vlog -work work -O0 C:/Users/nevza/Desktop/workspace/Mips32_testbench.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module Mips32_testbench
+# 
+# Top level modules:
+# 	Mips32_testbench
+vlog -work work -O0 C:/Users/nevza/Desktop/workspace/Mips32_testbench.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module Mips32_testbench
+# 
+# Top level modules:
+# 	Mips32_testbench
+vsim -voptargs=+acc work.Mips32_testbench
+# vsim -voptargs=+acc work.Mips32_testbench 
+# Loading work.Mips32_testbench
+# Loading work.Mips32
+# Loading work.program_counter
+# Loading work.instruction_memory
+# Loading work.control_unit
+# Loading work.mux_2to1_5bit
+# Loading work.mux_2to1
+# Loading work.registers
+# Loading work.sign_extender_16bit
+# Loading work.alu_control
+# Loading work.zero_extender_16bit
+# Loading work.mux_2to1_32bit
+# Loading work.alu_32bit
+# Loading work.alu_1bit
+# Loading work.mux_4to1
+# Loading work.data_memory_256KB
+# Loading work.compare_with_zero_32bit
+# Loading work.mux_4to1_2bit
+# Loading work.zero_extender_30bit
+# Loading work.zero_end_extender_16bit
+# Loading work.adder_subtractor_32bit
+# Loading work.full_adder_1bit
+# Loading work.shift32bit_left_2bit
+# Loading work.j_jal_mux_input
+add wave -position insertpoint  \
+sim:/Mips32_testbench/clk
+step -current
+# Break key hit 
+# Simulation stop requested.
+vlog -work work -O0 C:/Users/nevza/Desktop/workspace/Mips32_testbench.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module Mips32_testbench
+# 
+# Top level modules:
+# 	Mips32_testbench
+vsim work.Mips32_testbench
+# vsim work.Mips32_testbench 
+# Loading work.Mips32_testbench
+# Loading work.Mips32
+# Loading work.program_counter
+# Loading work.instruction_memory
+# Loading work.control_unit
+# Loading work.mux_2to1_5bit
+# Loading work.mux_2to1
+# Loading work.registers
+# Loading work.sign_extender_16bit
+# Loading work.alu_control
+# Loading work.zero_extender_16bit
+# Loading work.mux_2to1_32bit
+# Loading work.alu_32bit
+# Loading work.alu_1bit
+# Loading work.mux_4to1
+# Loading work.data_memory_256KB
+# Loading work.compare_with_zero_32bit
+# Loading work.mux_4to1_2bit
+# Loading work.zero_extender_30bit
+# Loading work.zero_end_extender_16bit
+# Loading work.adder_subtractor_32bit
+# Loading work.full_adder_1bit
+# Loading work.shift32bit_left_2bit
+# Loading work.j_jal_mux_input
+add wave -position insertpoint sim:/Mips32_testbench/*
+step -current
+# Break key hit 
+# Simulation stop requested.
+vlog -work work -O0 C:/Users/nevza/Desktop/workspace/Mips32_testbench.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module Mips32_testbench
+# 
+# Top level modules:
+# 	Mips32_testbench
+vsim work.Mips32_testbench
+# vsim work.Mips32_testbench 
+# Loading work.Mips32_testbench
+# Loading work.Mips32
+# Loading work.program_counter
+# Loading work.instruction_memory
+# Loading work.control_unit
+# Loading work.mux_2to1_5bit
+# Loading work.mux_2to1
+# Loading work.registers
+# Loading work.sign_extender_16bit
+# Loading work.alu_control
+# Loading work.zero_extender_16bit
+# Loading work.mux_2to1_32bit
+# Loading work.alu_32bit
+# Loading work.alu_1bit
+# Loading work.mux_4to1
+# Loading work.data_memory_256KB
+# Loading work.compare_with_zero_32bit
+# Loading work.mux_4to1_2bit
+# Loading work.zero_extender_30bit
+# Loading work.zero_end_extender_16bit
+# Loading work.adder_subtractor_32bit
+# Loading work.full_adder_1bit
+# Loading work.shift32bit_left_2bit
+# Loading work.j_jal_mux_input
+add wave -position insertpoint  \
+sim:/Mips32_testbench/clk
+step -current
+# Break key hit 
+vlog -work work -O0 C:/Users/nevza/Desktop/workspace/Mips32_testbench.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module Mips32_testbench
+# 
+# Top level modules:
+# 	Mips32_testbench
+vsim -voptargs=+acc work.Mips32_testbench
+# vsim -voptargs=+acc work.Mips32_testbench 
+# Loading work.Mips32_testbench
+# Loading work.Mips32
+# Loading work.program_counter
+# Loading work.instruction_memory
+# Loading work.control_unit
+# Loading work.mux_2to1_5bit
+# Loading work.mux_2to1
+# Loading work.registers
+# Loading work.sign_extender_16bit
+# Loading work.alu_control
+# Loading work.zero_extender_16bit
+# Loading work.mux_2to1_32bit
+# Loading work.alu_32bit
+# Loading work.alu_1bit
+# Loading work.mux_4to1
+# Loading work.data_memory_256KB
+# Loading work.compare_with_zero_32bit
+# Loading work.mux_4to1_2bit
+# Loading work.zero_extender_30bit
+# Loading work.zero_end_extender_16bit
+# Loading work.adder_subtractor_32bit
+# Loading work.full_adder_1bit
+# Loading work.shift32bit_left_2bit
+# Loading work.j_jal_mux_input
+add wave -position insertpoint  \
+sim:/Mips32_testbench/clk
+step -current
+# Break key hit 
+vlog -work work -O0 C:/Users/nevza/Desktop/workspace/Mips32_testbench.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module Mips32_testbench
+# 
+# Top level modules:
+# 	Mips32_testbench
+vsim -voptargs=+acc work.Mips32_testbench
+# vsim -voptargs=+acc work.Mips32_testbench 
+# Loading work.Mips32_testbench
+# Loading work.Mips32
+# Loading work.program_counter
+# Loading work.instruction_memory
+# Loading work.control_unit
+# Loading work.mux_2to1_5bit
+# Loading work.mux_2to1
+# Loading work.registers
+# Loading work.sign_extender_16bit
+# Loading work.alu_control
+# Loading work.zero_extender_16bit
+# Loading work.mux_2to1_32bit
+# Loading work.alu_32bit
+# Loading work.alu_1bit
+# Loading work.mux_4to1
+# Loading work.data_memory_256KB
+# Loading work.compare_with_zero_32bit
+# Loading work.mux_4to1_2bit
+# Loading work.zero_extender_30bit
+# Loading work.zero_end_extender_16bit
+# Loading work.adder_subtractor_32bit
+# Loading work.full_adder_1bit
+# Loading work.shift32bit_left_2bit
+# Loading work.j_jal_mux_input
+add wave -position insertpoint  \
+sim:/Mips32_testbench/clk
+step -current
+# Break key hit 
+vlog -work work -O0 C:/Users/nevza/Desktop/workspace/Mips32_testbench.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module Mips32_testbench
+# 
+# Top level modules:
+# 	Mips32_testbench
+vsim -voptargs=+acc work.Mips32_testbench
+# vsim -voptargs=+acc work.Mips32_testbench 
+# Loading work.Mips32_testbench
+# Loading work.Mips32
+# Loading work.program_counter
+# Loading work.instruction_memory
+# Loading work.control_unit
+# Loading work.mux_2to1_5bit
+# Loading work.mux_2to1
+# Loading work.registers
+# Loading work.sign_extender_16bit
+# Loading work.alu_control
+# Loading work.zero_extender_16bit
+# Loading work.mux_2to1_32bit
+# Loading work.alu_32bit
+# Loading work.alu_1bit
+# Loading work.mux_4to1
+# Loading work.data_memory_256KB
+# Loading work.compare_with_zero_32bit
+# Loading work.mux_4to1_2bit
+# Loading work.zero_extender_30bit
+# Loading work.zero_end_extender_16bit
+# Loading work.adder_subtractor_32bit
+# Loading work.full_adder_1bit
+# Loading work.shift32bit_left_2bit
+# Loading work.j_jal_mux_input
+add wave -position insertpoint  \
+sim:/Mips32_testbench/clk
+step -current
+# Break key hit 
+vlog -work work -O0 C:/Users/nevza/Desktop/workspace/Mips32_testbench.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module Mips32_testbench
+# 
+# Top level modules:
+# 	Mips32_testbench
+vsim -voptargs=+acc work.Mips32_testbench
+# vsim -voptargs=+acc work.Mips32_testbench 
+# Loading work.Mips32_testbench
+# Loading work.Mips32
+# Loading work.program_counter
+# Loading work.instruction_memory
+# Loading work.control_unit
+# Loading work.mux_2to1_5bit
+# Loading work.mux_2to1
+# Loading work.registers
+# Loading work.sign_extender_16bit
+# Loading work.alu_control
+# Loading work.zero_extender_16bit
+# Loading work.mux_2to1_32bit
+# Loading work.alu_32bit
+# Loading work.alu_1bit
+# Loading work.mux_4to1
+# Loading work.data_memory_256KB
+# Loading work.compare_with_zero_32bit
+# Loading work.mux_4to1_2bit
+# Loading work.zero_extender_30bit
+# Loading work.zero_end_extender_16bit
+# Loading work.adder_subtractor_32bit
+# Loading work.full_adder_1bit
+# Loading work.shift32bit_left_2bit
+# Loading work.j_jal_mux_input
+add wave -position insertpoint  \
+sim:/Mips32_testbench/clk
+step -current
+# Break key hit 
+vlog -work work -O0 C:/Users/nevza/Desktop/workspace/Mips32_testbench.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module Mips32_testbench
+# 
+# Top level modules:
+# 	Mips32_testbench
+vsim -voptargs=+acc work.Mips32_testbench
+# vsim -voptargs=+acc work.Mips32_testbench 
+# Loading work.Mips32_testbench
+# Loading work.Mips32
+# Loading work.program_counter
+# Loading work.instruction_memory
+# Loading work.control_unit
+# Loading work.mux_2to1_5bit
+# Loading work.mux_2to1
+# Loading work.registers
+# Loading work.sign_extender_16bit
+# Loading work.alu_control
+# Loading work.zero_extender_16bit
+# Loading work.mux_2to1_32bit
+# Loading work.alu_32bit
+# Loading work.alu_1bit
+# Loading work.mux_4to1
+# Loading work.data_memory_256KB
+# Loading work.compare_with_zero_32bit
+# Loading work.mux_4to1_2bit
+# Loading work.zero_extender_30bit
+# Loading work.zero_end_extender_16bit
+# Loading work.adder_subtractor_32bit
+# Loading work.full_adder_1bit
+# Loading work.shift32bit_left_2bit
+# Loading work.j_jal_mux_input
+add wave -position insertpoint  \
+sim:/Mips32_testbench/clk
+step -current
+# Break key hit 
+# Simulation stop requested.
+vlog -work work -O0 C:/Users/nevza/Desktop/workspace/Mips32_testbench.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module Mips32_testbench
+# 
+# Top level modules:
+# 	Mips32_testbench
+vsim -voptargs=+acc work.Mips32_testbench
+# vsim -voptargs=+acc work.Mips32_testbench 
+# Loading work.Mips32_testbench
+# Loading work.Mips32
+# Loading work.program_counter
+# Loading work.instruction_memory
+# Loading work.control_unit
+# Loading work.mux_2to1_5bit
+# Loading work.mux_2to1
+# Loading work.registers
+# Loading work.sign_extender_16bit
+# Loading work.alu_control
+# Loading work.zero_extender_16bit
+# Loading work.mux_2to1_32bit
+# Loading work.alu_32bit
+# Loading work.alu_1bit
+# Loading work.mux_4to1
+# Loading work.data_memory_256KB
+# Loading work.compare_with_zero_32bit
+# Loading work.mux_4to1_2bit
+# Loading work.zero_extender_30bit
+# Loading work.zero_end_extender_16bit
+# Loading work.adder_subtractor_32bit
+# Loading work.full_adder_1bit
+# Loading work.shift32bit_left_2bit
+# Loading work.j_jal_mux_input
+add wave -position insertpoint  \
+sim:/Mips32_testbench/clk
+step -current
+# Break key hit 
+# Simulation stop requested.
+vlog -work work -O0 C:/Users/nevza/Desktop/workspace/Mips32_testbench.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module Mips32_testbench
+# 
+# Top level modules:
+# 	Mips32_testbench
+vsim -voptargs=+acc work.Mips32_testbench
+# vsim -voptargs=+acc work.Mips32_testbench 
+# Loading work.Mips32_testbench
+# Loading work.Mips32
+# Loading work.program_counter
+# Loading work.instruction_memory
+# Loading work.control_unit
+# Loading work.mux_2to1_5bit
+# Loading work.mux_2to1
+# Loading work.registers
+# Loading work.sign_extender_16bit
+# Loading work.alu_control
+# Loading work.zero_extender_16bit
+# Loading work.mux_2to1_32bit
+# Loading work.alu_32bit
+# Loading work.alu_1bit
+# Loading work.mux_4to1
+# Loading work.data_memory_256KB
+# Loading work.compare_with_zero_32bit
+# Loading work.mux_4to1_2bit
+# Loading work.zero_extender_30bit
+# Loading work.zero_end_extender_16bit
+# Loading work.adder_subtractor_32bit
+# Loading work.full_adder_1bit
+# Loading work.shift32bit_left_2bit
+# Loading work.j_jal_mux_input
+add wave -position insertpoint  \
+sim:/Mips32_testbench/clk
+step -current
+# Break key hit 
+# Simulation stop requested.

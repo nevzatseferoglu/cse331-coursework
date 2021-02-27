@@ -1,0 +1,16 @@
+module mux_4to1(
+	output out,
+	input in3,
+	input in2,
+	input in1,
+	input in0,
+	input sel[1:0]
+	);
+	
+
+mux_2to1 mux1(.out(mux_o1), .in0(in0), .in1(in1), .sel(sel[0]));
+mux_2to1 mux2(mux_o2, in2, in3, sel[0]);
+mux_2to1 muxRes(mux_o2, in2, in3, sel[0]);
+	
+	
+endmodule

@@ -1,0 +1,66 @@
+Quartus II Archive log --	C:/Users/nevza/Desktop/workspace/Mips32.qarlog
+
+Archive:	C:/Users/nevza/Desktop/workspace/Mips32.qar
+Date:		Mon Jan 18 06:24:56 2021
+Quartus II 64-Bit		13.1.0 Build 162 10/23/2013 SJ Web Edition
+
+	=========== Files Selected: ===========
+C:/Users/nevza/Desktop/workspace/Mips32.qpf
+C:/Users/nevza/Desktop/workspace/Mips32.qsf
+C:/Users/nevza/Desktop/workspace/Mips32.v
+C:/Users/nevza/Desktop/workspace/Mips32_testbench.v
+C:/Users/nevza/Desktop/workspace/adder_subtractor_32bit.v
+C:/Users/nevza/Desktop/workspace/adder_subtractor_32bit_testbench.v
+C:/Users/nevza/Desktop/workspace/alu_1bit.v
+C:/Users/nevza/Desktop/workspace/alu_1bit_testbench.v
+C:/Users/nevza/Desktop/workspace/alu_32bit.v
+C:/Users/nevza/Desktop/workspace/alu_32bit_testbench.v
+C:/Users/nevza/Desktop/workspace/alu_control.v
+C:/Users/nevza/Desktop/workspace/alu_control_testbench.v
+C:/Users/nevza/Desktop/workspace/compare_with_zero_32bit.v
+C:/Users/nevza/Desktop/workspace/compare_with_zero_32bit_testbench.v
+C:/Users/nevza/Desktop/workspace/control_unit.v
+C:/Users/nevza/Desktop/workspace/control_unit_testbench.v
+C:/Users/nevza/Desktop/workspace/data_memory.txt
+C:/Users/nevza/Desktop/workspace/data_memory_256KB.v
+C:/Users/nevza/Desktop/workspace/data_memory_256KB_testbench.v
+C:/Users/nevza/Desktop/workspace/db/Mips32.db_info
+C:/Users/nevza/Desktop/workspace/full_adder_1bit.v
+C:/Users/nevza/Desktop/workspace/full_adder_1bit_testbench.v
+C:/Users/nevza/Desktop/workspace/incremental_db/compiled_partitions/Mips32.db_info
+C:/Users/nevza/Desktop/workspace/instruction_memory.v
+C:/Users/nevza/Desktop/workspace/instruction_memory_testbench.v
+C:/Users/nevza/Desktop/workspace/j_jal_mux_input.v
+C:/Users/nevza/Desktop/workspace/j_jal_mux_input_testbench.v
+C:/Users/nevza/Desktop/workspace/mux_2to1.v
+C:/Users/nevza/Desktop/workspace/mux_2to1_32bit.v
+C:/Users/nevza/Desktop/workspace/mux_2to1_32bit_testbench.v
+C:/Users/nevza/Desktop/workspace/mux_2to1_5bit.v
+C:/Users/nevza/Desktop/workspace/mux_2to1_5bit_testbench.v
+C:/Users/nevza/Desktop/workspace/mux_2to1_testbench.v
+C:/Users/nevza/Desktop/workspace/mux_4to1.v
+C:/Users/nevza/Desktop/workspace/mux_4to1_2bit.v
+C:/Users/nevza/Desktop/workspace/mux_4to1_2bit_testbench.v
+C:/Users/nevza/Desktop/workspace/mux_4to1_testbench.v
+C:/Users/nevza/Desktop/workspace/program_counter.v
+C:/Users/nevza/Desktop/workspace/program_counter_testbench.v
+C:/Users/nevza/Desktop/workspace/registers.v
+C:/Users/nevza/Desktop/workspace/registers_testbench.v
+C:/Users/nevza/Desktop/workspace/shift32bit_left_2bit.v
+C:/Users/nevza/Desktop/workspace/shift32bit_left_2bit_testbench.v
+C:/Users/nevza/Desktop/workspace/sign_extender_16bit.v
+C:/Users/nevza/Desktop/workspace/sign_extender_16bit_testbench.v
+C:/Users/nevza/Desktop/workspace/simulation/modelsim/data_memory.txt
+C:/Users/nevza/Desktop/workspace/simulation/modelsim/instruction_memory.txt
+C:/Users/nevza/Desktop/workspace/simulation/modelsim/registers.txt
+C:/Users/nevza/Desktop/workspace/zero_end_extender_16bit.v
+C:/Users/nevza/Desktop/workspace/zero_end_extender_16bit_testbench.v
+C:/Users/nevza/Desktop/workspace/zero_extender_16bit.v
+C:/Users/nevza/Desktop/workspace/zero_extender_16bit_testbench.v
+C:/Users/nevza/Desktop/workspace/zero_extender_30bit.v
+C:/Users/nevza/Desktop/workspace/zero_extender_30bit_testbench.v
+c:/altera/13.1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 55 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

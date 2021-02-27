@@ -1,0 +1,31 @@
+
+Instructions in instruction memory:
+------------
+sw R4, 0(R0) -> 10101100
+		00000100
+		00000000
+		00000000
+sw R6, 4(R5) -> 10101100
+		10100110
+                00000000
+                00000100
+--------
+Initial contents:
+
+R0 content = 00000000000000000000000000000100
+R5 content = 00000000000000000000000000000100
+
+R4 content = 01010101010101010101010101010101
+R6 content = 11111111111111110101010101010101
+
+*Note = All the other registers are filled with zero.
+*Note = All data memory block filled with zero.
+-----------------------------------------------------
+
+
+
+
+
+
+
+
